@@ -48,16 +48,11 @@ public void setSalario(double d) {
 	 this.salario = salario;
 	 
  }
- public String toString() {
-     return
-             "Employee's Name: " + this.getNombre() + "\n" +
-             "Employee's Salary: " + this.getDepartamento() + "\n" +
-             "Employees's Department: " + this.getSalario() + "\n" +
-             "Employee's Charge: " + this.getCargo();
+
  }
    
 	 
-}
+
 
     
 
